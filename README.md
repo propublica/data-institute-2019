@@ -59,7 +59,8 @@ Week 2:
 - When you get to this step, ask for Sisi
 
 <hr/>
-<!-- 
+<!--
+
 ## Day 1
 ### Monday, Oct 1
 
@@ -70,7 +71,7 @@ Week 2:
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
 
 **Exercises**
-- Organizing information in rows & columns using [Senate data](https://www.senate.gov/general/committee_assignments/assignments.htm)
+- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
 - Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
 
 ### Finding & Loading Data
@@ -160,7 +161,7 @@ Week 2:
 	- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
 	- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
 	- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
-	
+
 ### Homework
 - None! Enjoy the city!
 
@@ -198,7 +199,7 @@ Week 2:
   - `<img>`
   - `<a>`
   - `<ul>`
-  
+
 
 **Exercises**
 <ul>
@@ -440,5 +441,5 @@ We'll do the first two together, and you'll do the rest on your own.
 </ul>
 
 ## Day 10
-### Friday, Oct 12 
+### Friday, Oct 12
  -->
