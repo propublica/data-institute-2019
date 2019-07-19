@@ -128,7 +128,6 @@ Week 2:
 ### Homework
 - None! Enjoy the city!
 
-<!--
 ## Day 3
 ### Wednesday, July 24
 
@@ -159,6 +158,8 @@ Week 2:
 
 ### Homework
 - None! Enjoy the city!
+
+<!--
 
 ## Day 4
 ### Thursday, July 25
