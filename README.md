@@ -59,23 +59,22 @@ Week 2:
 - When you get to this step, ask for Sisi
 
 <hr/>
-<!--
 
 ## Day 1
 ### Monday, July 22
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
 
-### Intro to Spreadsheets
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
 **Exercises**
 - Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
 - Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
 
-### Finding & Loading Data
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/finding-loading.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.jpg"></a>
 
 **In-Class Demos**
 - Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
@@ -86,8 +85,7 @@ Week 2:
 - Text delimiter (probably quotes, but maybe not)
 - Open your text file in a reader and examine it
 
-### Best Practices
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
 **In-Class Demos**
 - Create a text document
@@ -100,7 +98,7 @@ Week 2:
 ### Advanced Spreadsheets: Pivot Tables
 
 ### Advanced Spreadsheets: String Functions
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
 
 **Exercises**
 - [Practice Data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
@@ -114,26 +112,23 @@ Week 2:
 ## Day 2
 ### Tuesday, July 23
 
-### Evaluating Data
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
 
 **Exercises**
 - [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
 
-### Data Integrity
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
 
-### OpenRefine
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
 
-### Analyzing Data: One Variable
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
 ### Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
 
 ### Homework
 - None! Enjoy the city!
 
+<!--
 ## Day 3
 ### Wednesday, July 24
 
@@ -166,7 +161,7 @@ Week 2:
 - None! Enjoy the city!
 
 ## Day 4
-### Thursday, Oct 4
+### Thursday, July 25
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
@@ -262,7 +257,7 @@ Week 2:
 </ul>
 
 ## Day 5
-### Friday, Oct 5
+### Friday, July 26
 
 ### Intro to Design
 <p>
@@ -336,7 +331,7 @@ Week 2:
 
 
 ## Day 6
-### Monday, Oct 8
+### Monday, July 29
 
 ### Javascript and JQuery
 
@@ -360,7 +355,7 @@ Week 2:
 - Create an account for [Datawrapper](https://app.datawrapper.de/signin) before tomorrow.
 
 ## Day 7
-### Tuesday, Oct 9
+### Tuesday, July 30
 
 ### Visualizing Data
 <p>
@@ -395,7 +390,7 @@ Week 2:
 
 
 ## Day 8
-### Wednesday, Oct 10
+### Wednesday, July 31
 
 ### Web Scraping + Fundamentals of Programming
 **In-Class Demos**
@@ -426,7 +421,7 @@ We'll do the first two together, and you'll do the rest on your own.
 </ul>
 
 ## Day 9
-### Thursday, Oct 11
+### Thursday, August 1
 
 ### Web Scraping, Continued
 
@@ -441,5 +436,5 @@ We'll do the first two together, and you'll do the rest on your own.
 </ul>
 
 ## Day 10
-### Friday, Oct 12
+### Friday, August 2
  -->
