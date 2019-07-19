@@ -62,7 +62,7 @@ Week 2:
 <!--
 
 ## Day 1
-### Monday, Oct 1
+### Monday, July 22
 
 ### Intro to Data Journalism
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-data.jpg"></a>
@@ -112,7 +112,7 @@ Week 2:
 - None! Enjoy the city!
 
 ## Day 2
-### Tuesday, Oct 2
+### Tuesday, July 23
 
 ### Evaluating Data
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
@@ -135,16 +135,16 @@ Week 2:
 - None! Enjoy the city!
 
 ## Day 3
-### Wednesday, Oct 3
+### Wednesday, July 24
 
 ### Mapping
 
 - [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
 
-**Exercises***
-- [Chicago homicides](http://web.archive.org/web/20170106233206/https://blog.apps.chicagotribune.com/2010/03/04/quickly-visualize-and-map-a-data-set-using-google-fusion-tables/) & [data](https://pp-projects-static.s3.amazonaws.com/graphics/images/data-institute/presentations/allhomicides.csv)
-- [Fusion Tables](https://fusiontables.google.com/DataSource?dsrcid=implicit&pli=1)
+**Exercise***
+- [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
+- [Datawrapper](https://www.datawrapper.de/)
 
 ### Analyzing Data, continued
 - [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
