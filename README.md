@@ -56,7 +56,10 @@ Week 2:
 
 **Windows**
 - Download [Cygwin](https://cygwin.com/install.html)
-- When you get to this step, ask for Sisi
+	- Here's a [screenshot-by-screenshot walk through](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like. 
+	- **PLEASE NOTE:**
+		- On step 9, installing packages, please select `python`and `git`. If there are multiple versions of `python` options, pick `python2`. 
+		- Only go through steps 1-10. Do not continue to the **Setup Notes** section of the walkthrough.
 
 <hr/>
 
