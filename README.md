@@ -58,8 +58,8 @@ Week 2:
 - Download [Cygwin](https://cygwin.com/install.html)
 	- Here's a [screenshot-by-screenshot walk through](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like. 
 	- **PLEASE NOTE:**
-		- On step 9, installing packages, please select `python`and `git`. If there are multiple versions of `python` options, pick `python2`. 
-		- Only go through steps 1-10. Do not continue to the **Setup Notes** section of the walkthrough.
+		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`. 
+		- Only go through steps 1-10. **Do not** continue to the "Setup Notes" section of the walkthrough.
 
 <hr/>
 
