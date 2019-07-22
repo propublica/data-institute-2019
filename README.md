@@ -49,7 +49,7 @@ Week 2:
 - `xcode-select --install`
 - `python -V`
   - Your Terminal should say something like "Python 2.7.13". Your last two digits might be different, that's okay. If you get something that Python 3, which looks like: "Python 3.X.XX" let Sisi know.
-- `sudo easy_install pip`
+- `curl https://bootstrap.pypa.io/get-pip.py | sudo python`
   - This will ask you to put in your computer password. Go ahead, and quick warning: the cursor won't move, but trust that your computer is reading what you're typing in.
 - `pip install --user BeautifulSoup`
 - `pip install --user Requests`
