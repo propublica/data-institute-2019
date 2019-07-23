@@ -67,7 +67,7 @@ Week 2:
 Monday, July 22
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf" target="_blank"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
