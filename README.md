@@ -101,11 +101,12 @@ Tuesday, July 23
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
 
 **Exercises**
 - [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 - Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
 **Homework**
