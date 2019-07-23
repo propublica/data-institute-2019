@@ -71,54 +71,31 @@ Week 2:
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
-**Exercises**
-- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
-- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
-
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.jpg"></a>
 
-**In-Class Demos**
-- Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
-- [Tabula](https://tabula.technology/)
-- Types of data (numeric, text, date)
-- Quirks of Excel (reformatting dates, dropping leading zeros)
-- Text files and types (csv, tab, fixed width, pipe)
-- Text delimiter (probably quotes, but maybe not)
-- Open your text file in a reader and examine it
-
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
 
-**In-Class Demos**
-- Create a text document
-- Save a clean copy of your data
-- Keep track of your work
-- Describe your steps
-- Copy/paste functions
-- Screen grabs of dialogue boxes
-
-### Advanced Spreadsheets: Pivot Tables
-
-### Advanced Spreadsheets: String Functions
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
 
-**Exercises**
-- [Practice Data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
-- Reformat
-- Split
-- Transpose
 
-### Homework
+**Exercises**
+- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
+- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
+- Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+- [Tabula](https://tabula.technology/)
+- Advanced Spreadsheets: Pivot Tables with [child support data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
+
+**Homework**
 - None! Enjoy the city!
 
 ## Day 2
 ### Tuesday, July 23
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
+### Analyzing Data
 
-**Exercises**
-- [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
 
@@ -126,40 +103,33 @@ Week 2:
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
 
-### Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
 
-### Homework
+**Exercises**
+- [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
+
+**Homework**
 - None! Enjoy the city!
 
 ## Day 3
 ### Wednesday, July 24
 
-### Mapping
-
+### Analyzing Data, continued
 - [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
-
-**Exercise***
 - [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
 - [Datawrapper](https://www.datawrapper.de/)
-
-### Analyzing Data, continued
 - [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
 - [Data Analysis Grab-Bag (slides)](https://docs.google.com/presentation/d/1WD0NiqrmYQCMpkN7cCyIAbntjXEVqzmrjP7HQYOnVzY/edit?usp=sharing)
-	- percent change
-	- percapita
-	- choosing your denominator wisely
-	- correlation
 - [Two Variables (slides)](https://drive.google.com/file/d/0Bw5Mt7QIQlsgMDl4UE9CZ1F0c1E/view?usp=sharing)
-	- scatterplots
-	- fitting a line
 - [Statistical Tests with M&Ms](https://drive.google.com/open?id=0Bw5Mt7QIQlsgaDgyODFlUjNTQ0E)
-- Resources
-	- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
-	- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
-	- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
-### Homework
+**Resources**
+- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
+- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
+- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+
+**Homework**
 - None! Enjoy the city!
 
 <!--
