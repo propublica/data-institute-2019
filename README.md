@@ -67,7 +67,7 @@ Week 2:
 Monday, July 22
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf" target="_blank"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
@@ -87,8 +87,7 @@ Monday, July 22
 - [Tabula](https://tabula.technology/)
 - Advanced Spreadsheets: Pivot Tables with [child support data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
 
-**Homework**
-- None! Enjoy the city!
+**No Homework! Enjoy the city!**
 
 ## Day 2
 Tuesday, July 23
@@ -109,8 +108,8 @@ Tuesday, July 23
 - Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 - Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
-**Homework**
-- None! Enjoy the city!
+**No Homework! Enjoy the city!**
+
 
 ## Day 3
 Wednesday, July 24
@@ -132,8 +131,7 @@ Wednesday, July 24
 - [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
 - [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
 
-**Homework**
-- None! Enjoy the city!
+**No Homework! Enjoy the city!**
 
 <!--
 
