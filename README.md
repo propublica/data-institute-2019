@@ -96,9 +96,9 @@ Tuesday, July 23
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
 
