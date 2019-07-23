@@ -106,7 +106,7 @@ Tuesday, July 23
 
 **Exercises**
 - [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
-- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
+- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
 **Homework**
 - None! Enjoy the city!
@@ -115,6 +115,9 @@ Tuesday, July 23
 Wednesday, July 24
 
 ### Analyzing Data, continued
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.jpg"></a>
+
 - [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
 - [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
@@ -122,7 +125,6 @@ Wednesday, July 24
 - [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
 - [Data Analysis Grab-Bag (slides)](https://docs.google.com/presentation/d/1WD0NiqrmYQCMpkN7cCyIAbntjXEVqzmrjP7HQYOnVzY/edit?usp=sharing)
 - [Two Variables (slides)](https://drive.google.com/file/d/0Bw5Mt7QIQlsgMDl4UE9CZ1F0c1E/view?usp=sharing)
-- [Statistical Tests with M&Ms](https://drive.google.com/open?id=0Bw5Mt7QIQlsgaDgyODFlUjNTQ0E)
 
 **Resources**
 - [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
