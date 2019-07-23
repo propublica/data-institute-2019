@@ -63,8 +63,7 @@ Week 2:
 
 <hr/>
 
-## Day 1
-### Monday, July 22
+## Day 1: Monday, July 22
 
 ### Intro to Data Journalism
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
@@ -90,8 +89,7 @@ Week 2:
 **Homework**
 - None! Enjoy the city!
 
-## Day 2
-### Tuesday, July 23
+## Day 2: Tuesday, July 23
 
 ### Analyzing Data
 
@@ -111,8 +109,7 @@ Week 2:
 **Homework**
 - None! Enjoy the city!
 
-## Day 3
-### Wednesday, July 24
+## Day 3: Wednesday, July 24
 
 ### Analyzing Data, continued
 - [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
