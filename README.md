@@ -67,7 +67,7 @@ Week 2:
 Monday, July 22
 
 ### Intro to Data Journalism
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf" target="_blank"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
@@ -75,9 +75,9 @@ Monday, July 22
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
 
 
 **Exercises**
@@ -94,7 +94,7 @@ Tuesday, July 23
 
 ### Analyzing Data
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
 
