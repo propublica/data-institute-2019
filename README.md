@@ -56,9 +56,9 @@ Week 2:
 
 **Windows**
 - Download [Cygwin](https://cygwin.com/install.html)
-	- Here's a [screenshot-by-screenshot walkthrough](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like. 
+	- Here's a [screenshot-by-screenshot walkthrough](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like.
 	- **PLEASE NOTE:**
-		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`. 
+		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`.
 		- Only go through steps 1-10. **Do not** continue to the "Setup Notes" section of the walkthrough.
 
 <hr/>
@@ -116,7 +116,7 @@ Wednesday, July 24
 
 ### Analyzing Data, continued
 
-- [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
+- [John Snow's map](http://matrix.msu.edu/~johnsnow/images/online_companion/chapter_images/fig12-5.jpg)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
 - [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
 - [Datawrapper](https://www.datawrapper.de/)
