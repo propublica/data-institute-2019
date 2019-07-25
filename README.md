@@ -137,8 +137,6 @@ Wednesday, July 24
 
 **No Homework! Enjoy the city!**
 
-<!--
-
 ## Day 4
 ### Thursday, July 25
 
@@ -234,6 +232,8 @@ Wednesday, July 24
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
   <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
+
+<!--
 
 ## Day 5
 ### Friday, July 26
