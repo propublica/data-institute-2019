@@ -233,7 +233,7 @@ Wednesday, July 24
   <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
 
-<!--
+
 
 ## Day 5
 ### Friday, July 26
@@ -298,7 +298,7 @@ Wednesday, July 24
 
 ### Homework
 <ul>
-  <li>Using the principles we discussed today, redesign your résumé. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
+  <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
   <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
 </ul>
 
@@ -307,7 +307,7 @@ Wednesday, July 24
 <br></br>
 <h2>📚 Weekend! 🎉</h2>
 
-
+<!--
 
 ## Day 6
 ### Monday, July 29
