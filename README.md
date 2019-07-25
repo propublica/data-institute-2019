@@ -363,7 +363,7 @@ Week 2:
 
 ### Visualizing Data
 <p>
-  <a target="_blank" href="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/lectures/VisualizingData.pdf"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/DataViz_small.jpg"></a>
+  <a target="_blank" href="https://lenagroeger.com/visualizing-data/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/visualizing_data.jpg"></a>
 </p>
 
 **Lecture**
