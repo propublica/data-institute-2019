@@ -56,113 +56,86 @@ Week 2:
 
 **Windows**
 - Download [Cygwin](https://cygwin.com/install.html)
-	- Here's a [screenshot-by-screenshot walkthrough](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like. 
+	- Here's a [screenshot-by-screenshot walkthrough](http://www.mcclean-cooper.com/valentino/cygwin_install/) of what installing it should be like.
 	- **PLEASE NOTE:**
-		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`. 
+		- On step 9, installing packages, you only need to select `python`and `git` as packages to install. If there are multiple versions of `python` options, pick `python2`.
 		- Only go through steps 1-10. **Do not** continue to the "Setup Notes" section of the walkthrough.
 
 <hr/>
 
 ## Day 1
-### Monday, July 22
+Monday, July 22
 
 ### Intro to Data Journalism
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/intro-to-spreadsheets.jpg"></a>
 
-**Exercises**
-- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
-- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
-
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/finding-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/loading-data.jpg"></a>
 
-**In-Class Demos**
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/best-practices.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
+
+
+**Exercises**
+- Organizing information in rows & columns using [biographical information](http://bioguide.congress.gov/biosearch/biosearch.asp)
+- Learning how to sort with [Trump expenditures](https://docs.google.com/spreadsheets/d/1od86DSRi5kJPJfLpDRcSbPj2nJiRk4yJUIrfunjlK4Q/edit#gid=0)
 - Using Socrata to look at [3-1-1 calls from NYC](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 - [Tabula](https://tabula.technology/)
-- Types of data (numeric, text, date)
-- Quirks of Excel (reformatting dates, dropping leading zeros)
-- Text files and types (csv, tab, fixed width, pipe)
-- Text delimiter (probably quotes, but maybe not)
-- Open your text file in a reader and examine it
+- Advanced Spreadsheets: Pivot Tables with [child support data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/best-practices.jpg"></a>
-
-**In-Class Demos**
-- Create a text document
-- Save a clean copy of your data
-- Keep track of your work
-- Describe your steps
-- Copy/paste functions
-- Screen grabs of dialogue boxes
-
-### Advanced Spreadsheets: Pivot Tables
-
-### Advanced Spreadsheets: String Functions
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/string-functions.jpg"></a>
-
-**Exercises**
-- [Practice Data](https://drive.google.com/file/d/0Bw5Mt7QIQlsgc2tLdFlpQ2QwTXM/view)
-- Reformat
-- Split
-- Transpose
-
-### Homework
-- None! Enjoy the city!
+**No Homework! Enjoy the city!**
 
 ## Day 2
-### Tuesday, July 23
+Tuesday, July 23
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/evaluating-data.jpg"></a>
+### Analyzing Data
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
+
 
 **Exercises**
-- [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+- Evaluating data with [Fairfax Arrests](https://www.strongspace.com/shared/u6n69debcw)
+- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
+- Advanced Spreadsheets: Combining Two Sheets with VLOOKUP, using [child support data](https://docs.google.com/spreadsheets/d/1cC_6Y6oV8YWHGtp_Fb6nDYQNYFJ-8Y0O7nnIZjBVvmc/edit?usp=sharing)
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/data-integrity.jpg"></a>
+**No Homework! Enjoy the city!**
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/open-refine.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/one-var.jpg"></a>
-
-### Advanced Spreadsheets: Combining Two Sheets with VLOOKUP
-
-### Homework
-- None! Enjoy the city!
 
 ## Day 3
-### Wednesday, July 24
+Wednesday, July 24
 
-### Mapping
+### Analyzing Data, continued
 
-- [John Snow's map](https://www1.udel.edu/johnmack/frec682/cholera/)
+- [John Snow's map](http://matrix.msu.edu/~johnsnow/images/online_companion/chapter_images/fig12-5.jpg)
 - [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
-
-**Exercise***
 - [Bill de Blasio donors](https://docs.google.com/spreadsheets/d/17NlwDllhkKCDLa1cnKJDelQhcAjt4yRS2YJeQnGG-ao/edit#gid=0)
 - [Datawrapper](https://www.datawrapper.de/)
 
-### Analyzing Data, continued
-- [Histograms revisited](https://docs.google.com/presentation/d/1tUJgdvNVnAiX9GOa2t6_ZHL4iKB01jc6eOWEuP77ZiY/edit?usp=sharing)
-- [Data Analysis Grab-Bag (slides)](https://docs.google.com/presentation/d/1WD0NiqrmYQCMpkN7cCyIAbntjXEVqzmrjP7HQYOnVzY/edit?usp=sharing)
-	- percent change
-	- percapita
-	- choosing your denominator wisely
-	- correlation
-- [Two Variables (slides)](https://drive.google.com/file/d/0Bw5Mt7QIQlsgMDl4UE9CZ1F0c1E/view?usp=sharing)
-	- scatterplots
-	- fitting a line
-- [Statistical Tests with M&Ms](https://drive.google.com/open?id=0Bw5Mt7QIQlsgaDgyODFlUjNTQ0E)
-- Resources
-	- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
-	- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
-	- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/HISTOGRAM-vs-BAR-CHART.jpg"></a>
 
-### Homework
-- None! Enjoy the city!
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/mms.jpg"></a>
 
-<!--
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
+
+
+**Resources**
+- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen
+- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
+- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+
+**No Homework! Enjoy the city!**
 
 ## Day 4
 ### Thursday, July 25
@@ -259,6 +232,8 @@ Week 2:
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
   <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
 </ul>
+
+<!--
 
 ## Day 5
 ### Friday, July 26
