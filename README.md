@@ -300,6 +300,7 @@ Wednesday, July 24
 <ul>
   <li>Using the principles we discussed today, redesign your resume. Email the before and after version to <a href="mailto:lena.groeger@propublica.org">lena.groeger@propublica.org</a>.</li>
   <li>Using everything you've learned about design, type & layout, keep working on your portfolio HTML page. Then, since you've learned how to make a working webpage on the internet, upload your page to Github.</li>
+  <li>Here's <a target="_blank" href="http://lenagroeger.com/resources/">Lena's big list of resources</a> that may come in handy next week.</li>
 </ul>
 
 
