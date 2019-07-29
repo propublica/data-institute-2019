@@ -308,7 +308,7 @@ Wednesday, July 24
 <br></br>
 <h2>📚 Weekend! 🎉</h2>
 
-<!--
+
 
 ## Day 6
 ### Monday, July 29
@@ -332,7 +332,9 @@ Wednesday, July 24
 
 **Homework**
 - Using your own photos, make your own before and after interactive. Then, publish your interactive on Github and add it to your portfolio.
-- Create an account for [Datawrapper](https://app.datawrapper.de/signin) before tomorrow.
+
+
+
 
 ## Day 7
 ### Tuesday, July 30
@@ -344,16 +346,16 @@ Wednesday, July 24
 
 **Lecture**
 <ul>
-  <li>Lines</li>
   <li>Bars</li>
-  <li>Scatterplots, Treemaps &amp; More!</li>
+  <li>Lines</li>
+  <li>Scatterplots, Small Multiples, and More!</li>
 </ul>
 
 
 ### Let's Make Some Charts & Maps!
 
 <p>
-  <a href="https://www.datawrapper.de/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
+  <a href="https://lenagroeger.com/datawrapper/"><img width="500" src="https://propublica.s3.amazonaws.com/projects/datainstitute/lena/imgs/datawrapper.jpg">
   </a>
 </p>
 
@@ -363,11 +365,9 @@ Wednesday, July 24
 </ul>
 
 
-**Exercises**
-<ul>
-  <li><a href="https://lenagroeger.com/datawrapper/">Making Maps & Charts in Datawrapper!</a></li>
-</ul>
 
+
+<!--
 
 ## Day 8
 ### Wednesday, July 31
