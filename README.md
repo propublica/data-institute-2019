@@ -364,7 +364,9 @@ Wednesday, July 24
   <li>From data to charts in Google Sheets &amp; Data Wrapper</li>
 </ul>
 
-
+**Homework**
+- Keep working on your portfolios! 
+- Send Lena your resumes if you haven't yet done so.
 
 
 <!--
