@@ -369,7 +369,6 @@ Wednesday, July 24
 - Send Lena your before/after resumes if you haven't yet done so.
 
 
-<!--
 
 ## Day 8
 ### Wednesday, July 31
@@ -402,6 +401,7 @@ We'll do the first two together, and you'll do the rest on your own.
   <li>See if you can write yourself any other functions. It'll help you gear up for tomorrow.</li>
 </ul>
 
+<! --
 ## Day 9
 ### Thursday, August 1
 
