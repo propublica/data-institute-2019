@@ -401,7 +401,6 @@ We'll do the first two together, and you'll do the rest on your own.
   <li>See if you can write yourself any other functions. It'll help you gear up for tomorrow.</li>
 </ul>
 
-<!--
 ## Day 9
 ### Thursday, August 1
 
@@ -419,4 +418,3 @@ We'll do the first two together, and you'll do the rest on your own.
 
 ## Day 10
 ### Friday, August 2
- -->
